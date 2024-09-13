@@ -1,0 +1,1 @@
+export const typeCast = <T = any>(param: any) => param as any as T;
